@@ -1,0 +1,26 @@
+
+.navbar {
+  background: #524D4D;
+  padding: 0.3em 0;
+}
+footer{
+  background-color: #524D4D;
+}
+
+.myFace{
+  height: 270px;
+}
+
+.benefit .benefit-ball {
+  background: #B90000;
+}
+.jumbotron {
+  background: url(../img/header.png);
+}
+.opaque{
+  background-color: rgba(24, 28, 39, 0.61)
+}
+.jumbotron h1, .jumbotron h2, .navbar .navbar-brand, body, h1, h2, h3, h4, h5, h6, .subhead, .benefit h3{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal
+ }
